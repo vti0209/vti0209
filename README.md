@@ -1,16 +1,37 @@
-## Hi there 👋
+```md id="5nwtfr"
+# 👋 Hi there, I'm Tiet
 
-<!--
-**vti0209/vti0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer & IT Student  
+🔥 Passionate about React, JavaScript & Web Development  
+📚 Learning Backend, System Design & English  
+🚀 Building real-world projects and improving everyday  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,postgres,git,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🌱 Learning Fullstack Development
+- 🧠 Improving React patterns & UI/UX thinking
+- 📖 Practicing English daily
+- 🎬 Developing movie management & event projects
+
+---
+
+## 📊 GitHub Stats
+
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Gmail: tiet.ho27@student.passerellesnumeriques.org
+- 💼 LinkedIn: https://www.linkedin.com/in/ho-van-tiet-544132343/
+```
