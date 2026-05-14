@@ -19,7 +19,7 @@ Full-stack Developer | Tester
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,react,java,php,laravel,mysql,chroma,git,vscode,jira,figma,framer" 
+    src="https://skillicons.dev/icons?i=html,css,js,react,java,php,laravel,mysql,python,git,vscode,figma" 
   />
 </p>
 
