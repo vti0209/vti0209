@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tiet</h1>
+<h1 align="center">Hi 👋, I'm Ho Van Tiet</h1>
 
 <h3 align="center">
-Frontend Developer | IT Student | React Enthusiast
+Full-stack Developer | Tester
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer & IT Student
+- 💻 Full-stack Developer 
 - 🔥 Passionate about React, JavaScript & Web Development
 - 📚 Learning Backend, System Design & English
 - 🚀 Building real-world projects and improving every day
@@ -19,7 +19,7 @@ Frontend Developer | IT Student | React Enthusiast
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,postgres,git,vscode,figma" 
+    src="https://skillicons.dev/icons?i=html,css,js,react,java,php,laravel,mysql,chroma,git,vscode,jira,figma,framer" 
   />
 </p>
 
@@ -27,10 +27,10 @@ Frontend Developer | IT Student | React Enthusiast
 
 ## 🎯 Current Focus
 
-- 🌱 Learning Fullstack Development
-- 🧠 Improving React patterns & UI/UX thinking
+- 🌱 Learning DevOps Development
+- 🧠 Improving UI/UX thinking
 - 📖 Practicing English daily
-- 🎬 Developing movie management & event projects
+- 📫 Developing course management & events projects
 
 ---
 
