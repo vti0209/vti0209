@@ -34,29 +34,25 @@ Full-stack Developer | Tester
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Learning Journey
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vti0209&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vti0209&layout=compact&theme=tokyonight" 
-    height="180"
-  />
-</p>
+- 📜 Introduction to Software Engineering — IBM
+- 📜 Developing Websites and Front-Ends with Bootstrap — IBM
+- 📜 Leadership and Organizational Behavior — Tecnológico de Monterrey
+- 📜 Critical Thinking Skills for the Professional — University of California, Davis
+- 📜 Build Dynamic User Interfaces (UI) for Websites — Coursera Project Network
+- 📜 Introduction to Creative Thinking: Tools for Success — Imperial College London
+- 📜 Foundations of User Experience (UX) Design — Google
+- 📜 Developing Front-End Apps with React — IBM
+- 📜 Introduction to Front-End Development — Meta
+- 📜 Getting Started with Front-End and Web Development — IBM
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  📧 Email: <b>tiet.ho27@student.passerellesnumeriques.org</b>
-  <br/>
-  💼 LinkedIn:
-  <a href="https://www.linkedin.com/in/ho-van-tiet-544132343/">
-    ho-van-tiet
-  </a>
+  📧 <a href="tiet.ho27@student.passerellesnumeriques.org">My Email</a>
+  <br/><br/>
+  💼 <a href="https://www.linkedin.com/in/ho-van-tiet-544132343/" target="_blank"> My LinkedIn </a>
 </p>
